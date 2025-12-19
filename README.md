@@ -1,5 +1,12 @@
 #  Prédiction de l'Accès FTTH au Togo
 
+j'ai eu un probleme avec le chargement de mon fichier à cause de sa taille raison pour laquelle je joint ce fichier qui contient le lien de mon github pour vous permettre de le cloner directement . 
+
+
+```bash
+git clone https://github.com/Kba-hub-cell/ACDS_FBER_ACCESS_PRED.git
+cd BIAM_Kwami_Alfred_ACDS_2025
+```
 
 
 ##  Description du Projet
@@ -48,7 +55,7 @@ ACDS_FBER_ACCESS_PRED/
 
 ```bash
 git clone https://github.com/Kba-hub-cell/ACDS_FBER_ACCESS_PRED.git
-cd ACDS_FBER_ACCESS_PRED
+cd BIAM_Kwami_Alfred_ACDS_2025
 ```
 
 ### Étape 2 : Créer l'environnement Conda
