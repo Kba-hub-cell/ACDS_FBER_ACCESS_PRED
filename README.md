@@ -8,7 +8,6 @@ git clone https://github.com/Kba-hub-cell/ACDS_FBER_ACCESS_PRED.git
 cd BIAM_Kwami_Alfred_ACDS_2025
 ```
 
-
 ##  Description du Projet
 
 Ce projet vise à prédire l'accès potentiel à la fibre optique (FTTH - Fiber to the Home) pour les ménages au Togo. En utilisant une combinaison de données socio-démographiques et de caractéristiques géospatiales MOSAIKS dérivées d'images satellites, nous développons des modèles de machine learning pour identifier les zones à fort potentiel de connectivité.
@@ -153,9 +152,8 @@ Ce projet fait partie de l'initiative **African Citizen Data Scientist** visant 
 
 - Projet réalisé dans le cadre du programme ACDS par Alfred Kwami BIAM
 
-##  Licence
 
-Ce projet est développé à des fins éducatives et de recherche.
+
 
 ---
 
