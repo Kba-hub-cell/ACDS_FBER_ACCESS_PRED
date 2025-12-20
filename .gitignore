@@ -49,3 +49,4 @@ notebooks/Output/*.pkl
 .DS_Store
 Thumbs.db
 desktop.ini
+Data/Data.parquet
