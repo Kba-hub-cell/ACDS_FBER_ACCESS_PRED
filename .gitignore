@@ -29,7 +29,8 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (large - ignore only Data.csv, not metadata)
+# Data files tracked with Git LFS
+# Only Data.parquet is pushed (Data.csv is too large even for LFS)
 Data/Data.csv
 
 # Output files
@@ -49,4 +50,3 @@ notebooks/Output/*.pkl
 .DS_Store
 Thumbs.db
 desktop.ini
-Data/Data.parquet
