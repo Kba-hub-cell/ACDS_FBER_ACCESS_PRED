@@ -26,6 +26,7 @@ venv/
 ENV/
 env/
 
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -45,6 +46,7 @@ notebooks/Output/*.pkl
 *.swp
 *.swo
 *~
+.github/
 
 # OS
 .DS_Store
