@@ -1,8 +1,10 @@
 #  Prédiction de l'Accès FTTH au Togo
 
-***j'ai eu un probleme avec le chargement de mon fichier à cause de sa taille raison pour laquelle je joint ce fichier qui contient le lien de mon github pour vous permettre de le cloner directement***
+ de mon github pour vous permettre de le cloner directement***
 
 *** la data.csv n'est pas pushée raison de sa taille, veuillezz de votre coté la charger dans le dossier data ***
+
+*** voici le lien google drive du challenge  si vous voulez bien le faire de votre coté : https://drive.google.com/drive/folders/1Cu0tUeayegKHuMiAdLgKnpnaebbMBBZY?usp=drive_link***
 
 
 
